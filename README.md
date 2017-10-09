@@ -1,4 +1,6 @@
 ## Awesome React
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fawesome-react.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fawesome-react?ref=badge_shield)
+
 
 A collection of awesome React tools, resources, videos and shiny things.
 
@@ -792,3 +794,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ---
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fawesome-react.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fawesome-react?ref=badge_large)
